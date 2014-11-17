@@ -1,0 +1,13 @@
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\bin\Debug\TermProject5.exe.config
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5.csprojResolveAssemblyReference.cache
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\MainWindow.baml
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\MainWindow.g.cs
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\App.g.cs
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5_MarkupCompile.cache
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5.g.resources
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5.Properties.Resources.resources
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5.csproj.GenerateResource.Cache
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\bin\Debug\TermProject5.exe
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\bin\Debug\TermProject5.pdb
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5.exe
+c:\users\kheops\documents\visual studio 2012\Projects\TermProject5\TermProject5\obj\Debug\TermProject5.pdb
